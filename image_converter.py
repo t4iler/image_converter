@@ -1,6 +1,6 @@
+from PIL import Image
 import tkinter as tk
 from tkinter import filedialog
-from PIL import Image
 
 root = tk.Tk()
 canvas01 = tk.Canvas(root, width=450, height=400, bg='pink1', relief='raised')
