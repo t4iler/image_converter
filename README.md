@@ -8,4 +8,5 @@ And the result:
 
 ![Screenshot from 2022-05-30 10-17-10](https://user-images.githubusercontent.com/101047236/170917307-e1550232-fbfe-407a-8b99-645d2cd7f403.png)
 
+
 As you can see the output window, it will work the same as all other applications installed in your system. You first need to select a PNG file then click on the button to convert PNG to JPG, then you just need to select a folder where you want to save your converted image.
